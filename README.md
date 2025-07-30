@@ -25,7 +25,7 @@ Flower-Classification-project/
 ├── Flower-Classification.ipynb     # Main notebook for training and evaluation (runs on Google Colab).
 ├── flowers_ui.py                   # Python script for the GUI script built using Tkinter.
 ├── sample_test_images/            # Contains test images organized in subfolders by category.
-├── README.md                      # Full project description, usage guide, and model
+├── README.md                      # Full project description, usage guide, and model link.
 ## 📥 Trained Model File (model.h5)
 
 Due to GitHub's file size limitations, the trained model file is not uploaded here.
