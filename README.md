@@ -63,4 +63,4 @@ Due to GitHub's file size limitations, the trained model file is not uploaded he
 
 5. A window will open where you can upload an image and view the prediction result.
 
-[GUI Screenshot] (https://github.com/Hagers1/Flower-Classification-project/blob/main/Screenshot.jpeg?raw=true)   
+[GUI Screenshot] (https://iili.io/FSUj4OG.jpg)   
