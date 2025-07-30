@@ -57,7 +57,7 @@ Due to GitHub's file size limitations, the trained model file is not uploaded he
 
 3. Download the model.h5 file and place it in the same folder as flowers_ui.py.
 
-4. 4. Run the GUI script using:
+4. Run the GUI script using:
    ```bash
    python flowers_ui.py
 
