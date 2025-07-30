@@ -31,7 +31,7 @@ Flower-Classification-project/
 Due to GitHub's file size limitations, the trained model file is not uploaded here.
 
 👉 Download the trained model from this link:  
-[📦 Download model.h5](https://drive.google.com/drive/folders/17saIZwLaDdLKU2ZJgLp5qn80Ne6Dl6di?usp=drive_link)
+[ Download model.h5](https://drive.google.com/drive/folders/17saIZwLaDdLKU2ZJgLp5qn80Ne6Dl6di?usp=drive_link)
 
 🟡 *Important:*  
 1. Place the downloaded model.h5 file *directly* in the root directory of the project or Colab environment.  
